@@ -5,3 +5,30 @@ __pycache__/
 .env.local
 cookies.json
 temp/
+docs/
+.claude/
+
+# Python
+*.py[cod]
+*$py.class
+venv/
+.venv/
+build/
+dist/
+*.egg-info/
+
+# Selenium / Chrome
+chromedriver
+geckodriver
+ghostdriver.log
+debug.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
